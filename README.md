@@ -1,2 +1,4 @@
 # websocket
-using Pithikos/python-websocket-server to send server's time to clients
+using Pithikos/python-websocket-server to comunicate between clients
+
+now coding...
