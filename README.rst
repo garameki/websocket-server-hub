@@ -1,8 +1,14 @@
 ================
 websocket-server
 ================
-The original code is Pithikos/python-websocket-server
-  
+
+
+1.Clone and Install  <https://github.com/Pithikos/python-websocket-server>
+
+
+
+
+
 functions:
 ----------
 
