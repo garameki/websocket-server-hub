@@ -98,6 +98,7 @@ class HubServer:
 	def new_client(self,client_websocket_server, server):
 		print("New client connected and was given id %d" % client_websocket_server['id'])
 		print(client_websocket_server)
+		server.send_message_to_all('new client joined')
 		MyClient(client_websocket_server,server)
 
 	# Called for every client disconnecting
