@@ -13,11 +13,21 @@ execute:
 $ python3 hub.py
 
 
-functions:
+message functions:
 ----------
 
   1.to give client roll name
 
+    2 examples:
+
+      co6
+
+      ma6
+
   2.to send message to specific roll of client(s)
-  
+    2 examples:
+
+      toM
+
+      toC
 
