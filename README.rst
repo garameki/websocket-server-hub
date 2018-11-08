@@ -16,6 +16,8 @@ $ python3 hub.py
 message functions:
 ----------
 
+  Messages can involve any commands what you want websocket-server take.
+
   1.to give client roll name
 
     2 examples:
@@ -31,3 +33,25 @@ message functions:
 
       toC
 
+Usage (keep order):
+------
+  1.on terminal 1:
+
+    co6
+
+  2.on terminal 2:
+
+    ma6
+
+  3.on terminal 1:
+
+     toM Hello MAX31856!
+
+  4.on terminal 2:
+
+    toC Hello CONTROLLER!
+
+Feature:
+--------
+
+  You can add more command.
