@@ -127,5 +127,5 @@ class HubServer:
 				client.say_to_roll(HubServer.rollnameCONTROLLER,message)
 
 if __name__ == '__main__':
-	HubServer(8801,'raspberrypi.garameki.com',logging.INFO)
+	HubServer(8801,'garameki.com',logging.INFO)
 
